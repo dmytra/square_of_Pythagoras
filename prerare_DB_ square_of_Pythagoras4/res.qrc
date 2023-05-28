@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>file_for_DB/man</file>
+        <file>file_for_DB/popularnist-prizvis_in_ua</file>
+        <file>file_for_DB/whoman</file>
+    </qresource>
+</RCC>
